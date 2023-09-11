@@ -95,11 +95,11 @@ end
 ### Small image
 
 <!-- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/audio_examples/03_SS3-84-Bb_comp_mix_gtr.wav)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/ing.png)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -116,7 +116,7 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, single-line code bbranchlocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
