@@ -15,7 +15,7 @@ Synthesizing performing guitar sound is a highly challenging task due to the pol
 <p align="middle">
   <img src="https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/model_architecture.png?raw=true" width="250">
 <!-- ![Model_Architecture](https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/model_architecture.png?raw=true){: width="500" height="500"} -->
-  <img src="https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/inpainting_algorithm.png?raw=true" width="250">
+  <img src="https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/inpainting_algorithm_5.png?raw=true" width="250">
 </p>
 
 ## Audio examples
