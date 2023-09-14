@@ -53,15 +53,15 @@ Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Base
 Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/02_Rock3-117-Bb_comp_mix_gtr.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/02_Rock3-117-Bb_comp_mix_bse.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/02_Rock3-117-Bb_comp_mix_gtr.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/02_Rock3-117-Bb_comp_mix_bse.wav' controls preload='auto'> </audio>
 </p>
 <p style="text-align: center;">
 &emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/02_Rock3-117-Bb_comp_mix_ipt.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/02_Rock3-117-Bb_comp_mix_haw.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/02_Rock3-117-Bb_comp_mix_ipt.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/02_Rock3-117-Bb_comp_mix_haw.wav' controls preload='auto'> </audio>
 </p>
 
 ### Sample 3 (solo)
@@ -70,15 +70,15 @@ Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Base
 Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/00_Rock3-117-Bb_solo_mix_gtr.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/00_Rock3-117-Bb_solo_mix_bse.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/00_Rock3-117-Bb_solo_mix_gtr.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/00_Rock3-117-Bb_solo_mix_bse.wav' controls preload='auto'> </audio>
 </p>
 <p style="text-align: center;">
 &emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/00_Rock3-117-Bb_solo_mix_ipt.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/00_Rock3-117-Bb_solo_mix_haw.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/00_Rock3-117-Bb_solo_mix_ipt.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/00_Rock3-117-Bb_solo_mix_haw.wav' controls preload='auto'> </audio>
 </p>
 
 ### Sample 4 (solo)
@@ -87,20 +87,20 @@ Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Base
 Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_gtr.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_bse.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/01_Jazz3-137-Eb_solo_mix_gtr.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/01_Jazz3-137-Eb_solo_mix_bse.wav' controls preload='auto'> </audio>
 </p>
 <p style="text-align: center;">
 &emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
 </p>
 <p align="center">
-<audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_ipt.wav' controls preload='auto'> </audio>
-<audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_haw.wav' controls preload='auto'> </audio>
+<audio src='./audio_examples/01_Jazz3-137-Eb_solo_mix_ipt.wav' controls preload='auto'> </audio>
+<audio src='./audio_examples/01_Jazz3-137-Eb_solo_mix_haw.wav' controls preload='auto'> </audio>
 </p>
 
-<audio controls>
+<!-- <audio controls>
   <source src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_ipt.wav'  preload='auto'>
-</audio>
+</audio> -->
 * * *
 
 
