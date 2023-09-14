@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+<!-- [Link to another page](./another-page.html). -->
 
 ## Abstract
 
@@ -34,15 +34,15 @@ Synthesizing performing guitar sound is a highly challenging task due to the pol
 Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/03_SS3-84-Bb_comp_mix_gtr.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/03_SS3-84-Bb_comp_mix_bse.wav' controls preload='auto'> </audio>
+  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/00_Rock3-117-Bb_solo_mix_bse.wav' controls preload='auto' type="audio/wav"> </audio>
+  <audio src='./audio_examples/03_SS3-84-Bb_comp_mix_bse.wav' controls preload='auto' type="audio/wav"> </audio>
 </p>
 <p style="text-align: center;">
 &emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
 </p>
 <p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/03_SS3-84-Bb_comp_mix_ipt.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/03_SS3-84-Bb_comp_mix_haw.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/03_SS3-84-Bb_comp_mix_ipt.wav' controls preload='auto' type="audio/wav"> </audio>
+  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/03_SS3-84-Bb_comp_mix_haw.wav' controls preload='auto' type="audio/wav"> </audio>
 </p>
 
 ### Sample 2 (comp)
@@ -91,59 +91,11 @@ Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Base
 <p style="text-align: center;">
 &emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
 </p>
-<p align="center">
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_ipt.wav' controls preload='auto'> </audio>
-  <audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_haw.wav' controls preload='auto'> </audio>
-</p>
-
-### There's a horizontal rule below this.
+<!-- <p align="center"> -->
+<audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_ipt.wav' controls preload='auto'> </audio>
+<audio src='https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/audio_examples/01_Jazz3-137-Eb_solo_mix_haw.wav' controls preload='auto'> </audio>
+<!-- </p> -->
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-
-### And an ordered list:
-
-1.  Item one
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-
-### Small image
-
-<!-- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) -->
-<!-- ![Octocat](https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/audio_examples/03_SS3-84-Bb_comp_mix_gtr.wav) -->
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/ing.png)
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code bbranchlocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
