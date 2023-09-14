@@ -64,7 +64,41 @@ Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Base
   <audio src='./audio_examples/02_Rock3-117-Bb_comp_mix_haw.wav' controls preload='auto'> </audio>
 </p>
 
-### Sample 3 (solo)
+### Sample 3 (comp)
+
+<p style="text-align: center;">
+Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
+</p>
+<p align="center">
+  <audio src='./audio_examples/05_SS3-84-Bb_comp_mix_gtr.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/05_SS3-84-Bb_comp_mix_bse.wav' controls preload='auto'> </audio>
+</p>
+<p style="text-align: center;">
+&emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
+</p>
+<p align="center">
+  <audio src='./audio_examples/05_SS3-84-Bb_comp_mix_ipt.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/05_SS3-84-Bb_comp_mix_haw.wav' controls preload='auto'> </audio>
+</p>
+
+### Sample 4 (solo)
+
+<p style="text-align: center;">
+Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
+</p>
+<p align="center">
+  <audio src='./audio_examples/00_SS3-98-C_solo_mix_gtr.wav' controls preload='auto'> </audio>
+  <audio src='./audio_examples/00_SS3-98-C_solo_mix_bse.wav' controls preload='auto'> </audio>
+</p>
+<p style="text-align: center;">
+&emsp; &ensp; OutpaintingFT &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Hawthorne Demo
+</p>
+<p align="center">
+<audio src='./audio_examples/00_SS3-98-C_solo_mix_ipt.wav' controls preload='auto'> </audio>
+<audio src='./audio_examples/00_SS3-98-C_solo_mix_haw.wav' controls preload='auto'> </audio>
+</p>
+
+### Sample 5 (solo)
 
 <p style="text-align: center;">
 Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
@@ -81,7 +115,7 @@ Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Base
   <audio src='./audio_examples/00_Rock3-117-Bb_solo_mix_haw.wav' controls preload='auto'> </audio>
 </p>
 
-### Sample 4 (solo)
+### Sample 6 (solo)
 
 <p style="text-align: center;">
 Ground-truth &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; BaselineFT
