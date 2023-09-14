@@ -13,10 +13,10 @@ Synthesizing performing guitar sound is a highly challenging task due to the pol
 ## Model Overview
 
 <p align="middle">
-  <img src="https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/model_architecture.png?raw=true" width="350">
+  <img src="./image/model_architecture.png?raw=true" width="350">
   &emsp;&emsp;&emsp;
 <!-- ![Model_Architecture](https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/model_architecture.png?raw=true){: width="500" height="500"} -->
-  <img src="https://github.com/hanshounsu/guitar-synthesis-diffusion-outpainting/blob/main/image/inpainting_algorithm_5.png?raw=true" width="350">
+  <img src="./image/inpainting_algorithm_5.png?raw=true" width="350">
 </p>
 <p style="text-align: center;">
 <b>Model Architecture &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Outpainting Procedure </b>
