@@ -24,10 +24,6 @@ Synthesizing performing guitar sound is a highly challenging task due to the pol
 
 ## Audio examples
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ### Sample 1 (comp)
 
 <p style="text-align: center;">
